@@ -1,0 +1,12 @@
+name: remove_null_from_list
+description: An extension method for the List class that removes all null values from the list.
+version: 0.1.0
+homepage: https://github.com/james-alex/remove_null_from_list
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.15.3
